@@ -1,0 +1,19 @@
+#youzone_body{
+    background-color: #e7f1f2;
+}
+
+.youzone_text{
+    color: #292e4d;
+    font-family: 'Oxygen', sans-serif;
+}
+
+.subscribe_button {
+    background-color: grey;
+    border: none;
+    color: white;
+    text-align: center; 
+    display: inline-block; 
+    font-size: 16px;
+    cursor: pointer;
+    font-family: 'Oxygen', sans-serif;
+  }
