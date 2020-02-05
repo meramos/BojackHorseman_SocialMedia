@@ -3,10 +3,10 @@
 
 <p> In this project I intend to implement the 4 social media sites shown in the Netflix show <i>Bojack Horseman</i>, using React and Bootstrap. In the show these social media sites are used by the character Pickles Aplenty. The 4 sites are: 
 <ol>
-<li>Youzone</li>
-<li>FaceFeed</li>
-<li>TweedFeed</li>
-<li>ZoneFace</li>
+<li>Youzone (implemented &#10003;)</li>
+<li>FaceFeed (WIP)</li>
+<li>TweedFeed (WIP)</li>
+<li>ZoneFace (WIP)</li>
 </ol>
 You can view a clip from the show where the 4 social media sites are shown <a href="https://youtu.be/lXBSRbXOiNM">here</a>.
 
