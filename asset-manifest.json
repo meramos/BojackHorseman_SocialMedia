@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/BojackHorseman_SocialMedia/static/css/main.ae533d13.chunk.css",
+    "main.js": "/BojackHorseman_SocialMedia/static/js/main.7b6810f4.chunk.js",
+    "main.js.map": "/BojackHorseman_SocialMedia/static/js/main.7b6810f4.chunk.js.map",
+    "runtime-main.js": "/BojackHorseman_SocialMedia/static/js/runtime-main.97d00854.js",
+    "runtime-main.js.map": "/BojackHorseman_SocialMedia/static/js/runtime-main.97d00854.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/BojackHorseman_SocialMedia/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.e533deee.chunk.js": "/BojackHorseman_SocialMedia/static/js/2.e533deee.chunk.js",
+    "static/js/2.e533deee.chunk.js.map": "/BojackHorseman_SocialMedia/static/js/2.e533deee.chunk.js.map",
+    "index.html": "/BojackHorseman_SocialMedia/index.html",
+    "precache-manifest.13baa6b696a74195a87744455a0e23d8.js": "/BojackHorseman_SocialMedia/precache-manifest.13baa6b696a74195a87744455a0e23d8.js",
+    "service-worker.js": "/BojackHorseman_SocialMedia/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/BojackHorseman_SocialMedia/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.ae533d13.chunk.css.map": "/BojackHorseman_SocialMedia/static/css/main.ae533d13.chunk.css.map",
+    "static/js/2.e533deee.chunk.js.LICENSE": "/BojackHorseman_SocialMedia/static/js/2.e533deee.chunk.js.LICENSE",
+    "static/media/ad_1.png": "/BojackHorseman_SocialMedia/static/media/ad_1.11980d32.png",
+    "static/media/facefeed_video.png": "/BojackHorseman_SocialMedia/static/media/facefeed_video.d2e37b85.png",
+    "static/media/pickles_purrfect_video.png": "/BojackHorseman_SocialMedia/static/media/pickles_purrfect_video.152d868c.png",
+    "static/media/profilepic_youzone.png": "/BojackHorseman_SocialMedia/static/media/profilepic_youzone.17334b1c.png",
+    "static/media/thumbnail1.png": "/BojackHorseman_SocialMedia/static/media/thumbnail1.cd7c1ebf.png",
+    "static/media/thumbnail2.png": "/BojackHorseman_SocialMedia/static/media/thumbnail2.cd017b10.png",
+    "static/media/thumbnail3.png": "/BojackHorseman_SocialMedia/static/media/thumbnail3.a48e2e06.png",
+    "static/media/youzone.png": "/BojackHorseman_SocialMedia/static/media/youzone.1980123d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97d00854.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.e533deee.chunk.js",
+    "static/css/main.ae533d13.chunk.css",
+    "static/js/main.7b6810f4.chunk.js"
+  ]
+}
