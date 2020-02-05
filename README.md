@@ -1,3 +1,24 @@
+
+# Bojack Horseman Social Media
+
+<p> In this project I intend to implement the 4 social media sites shown in the Netflix show <i>Bojack Horseman</i>, using React and Bootstrap. In the show these social media sites are used by the character Pickles Aplenty. The 4 sites are: 
+<ol>
+<li>Youzone</li>
+<li>FaceFeed</li>
+<li>TweedFeed</li>
+<li>ZoneFace</li>
+</ol>
+You can view a clip from the show where the 4 social media sites are shown <a href="https://youtu.be/lXBSRbXOiNM">here</a>.
+
+<h2>View website here: https://meramos.github.io/BojackHorseman_SocialMedia/</h2>
+Tutorials followed in order to host React App on GitHub: 
+<ul>
+<li> https://levelup.gitconnected.com/deploying-a-create-react-app-with-routing-to-github-pages-f386b6ce84c2 </li>
+<li> https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f </li>
+</ul>
+
+<hr>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
